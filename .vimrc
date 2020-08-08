@@ -25,9 +25,9 @@ set noshowmode
 set title
 
 " Global tab width.
-set tabstop=2
-set shiftwidth=2
-set softtabstop=2
+set tabstop=4
+set shiftwidth=4
+set softtabstop=4
 set expandtab
 
 " Set to show invisibles (tabs & trailing spaces) & their highlight color
