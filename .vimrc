@@ -1,3 +1,7 @@
+if has('gui_running')
+    colorscheme evening
+endif
+
 set nocompatible
 
 filetype off
